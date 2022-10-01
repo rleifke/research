@@ -14,7 +14,7 @@ Constructing trading functions based on a desired nonlinear payoff.
 
 Quantifying the implied volatility of a LP share for the purpose of understanding and minimizing impermanent loss. 
 
-### Auctioning off Arbitrageur Rights
+### Auctioning Off Arbitrageur Rights
 
 An interesting proposition for protocol developers is the ability to monetize on order flow. CFMMs especially have multiple avenues to monetize on good 
 Maximal Extractable Value (MEV). Optimal auctions for bidding on arbitrage rights.
