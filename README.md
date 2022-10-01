@@ -1,6 +1,6 @@
-# Flashbots Research
+# Numoen Research
 
-Flashbots is a research and development organization focused on the impact MEV has on state-rich blockchains such as Ethereum. MEV (Maximal Extractable Value) is a complex research topic involving multiple fascinating disciplines, stakeholders, and tradeoffs. Our research and development operate hand in hand, and have been designed to closely feed into each-other forming a dual engine that propels Flashbots forward. In line with our organization's values, all our research efforts are open to the public and highly collaborative.
+Numoen is a research and development organization focused on the impact MEV has on state-rich blockchains such as Ethereum. MEV (Maximal Extractable Value) is a complex research topic involving multiple fascinating disciplines, stakeholders, and tradeoffs. Our research and development operate hand in hand, and have been designed to closely feed into each-other forming a dual engine that propels Flashbots forward. In line with our organization's values, all our research efforts are open to the public and highly collaborative.
 
 We are building Flashbots Research as a research hub for MEV, tackling and uncovering questions relevant to the short, medium and long-term future of the ecosystem. We view this research as essential to help the cryptocurrency industry better understand and deal with MEV. We are currently funded through venture capital but aim to build a sustainable self-funded independent research organization that can become a place where ambitious researchers can work amongst like-minded individuals on the most interesting research questions unencumbered from the usual friction of academia.
 
