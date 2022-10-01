@@ -17,7 +17,7 @@ Quantifying the implied volatility of a LP share for the purpose of understandin
 ### Auctioning Off Arbitrage Rights
 
 An interesting proposition for protocol developers is the ability to monetize on order flow. CFMMs especially have multiple avenues to monetize on good 
-Maximal Extractable Value (MEV). Optimal auctions for bidding on arbitrage rights.
+Maximal Extractable Value (MEV). Optimal auctions for bidding on arbitrage rights need to designed.
 
 ### Adaptive Curves for Hedging Portfolios
 
